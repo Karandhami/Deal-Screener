@@ -1,0 +1,12 @@
+{
+  "name": "Mid-market software buyout",
+  "target_sectors": ["technology", "healthcare"],
+  "excluded_countries": ["RU"],
+  "excluded_keywords": ["gambling", "tobacco"],
+  "min_revenue": 50000000,
+  "max_revenue": 500000000,
+  "min_revenue_growth": 0.15,
+  "min_ebitda_margin": 0.18,
+  "max_net_leverage": 3.0,
+  "max_ev_ebitda": 15
+}

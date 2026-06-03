@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Northwind Software",
+    "sector": "technology",
+    "country": "US",
+    "description": "B2B supply-chain workflow automation platform",
+    "enterprise_value": 980000000,
+    "financials": {
+      "revenue": 180000000,
+      "ebitda": 54000000,
+      "total_debt": 90000000,
+      "cash": 35000000,
+      "revenue_growth": 0.28
+    }
+  },
+  {
+    "name": "Helios Renewables",
+    "sector": "energy",
+    "country": "ES",
+    "description": "Utility-scale solar developer",
+    "enterprise_value": 2200000000,
+    "financials": {
+      "revenue": 410000000,
+      "ebitda": 120000000,
+      "total_debt": 800000000,
+      "cash": 60000000,
+      "revenue_growth": 0.12
+    }
+  },
+  {
+    "name": "Cobalt Health",
+    "sector": "healthcare",
+    "country": "US",
+    "description": "Revenue-cycle management SaaS for hospitals",
+    "enterprise_value": 640000000,
+    "financials": {
+      "revenue": 95000000,
+      "ebitda": 22000000,
+      "total_debt": 40000000,
+      "cash": 25000000,
+      "revenue_growth": 0.34
+    }
+  },
+  {
+    "name": "Veridian Analytics",
+    "sector": "technology",
+    "country": "GB",
+    "description": "Data observability and quality tooling",
+    "enterprise_value": 1500000000,
+    "financials": {
+      "revenue": 120000000,
+      "ebitda": 18000000,
+      "total_debt": 20000000,
+      "cash": 80000000,
+      "revenue_growth": 0.45
+    }
+  },
+  {
+    "name": "RedStar Gaming",
+    "sector": "consumer",
+    "country": "MT",
+    "description": "Online gambling and sportsbook operator",
+    "enterprise_value": 700000000,
+    "financials": {
+      "revenue": 300000000,
+      "ebitda": 90000000,
+      "total_debt": 150000000,
+      "cash": 50000000,
+      "revenue_growth": 0.09
+    }
+  },
+  {
+    "name": "Opaque Holdings",
+    "sector": "technology",
+    "country": "US",
+    "description": "Diversified software holding company",
+    "enterprise_value": null,
+    "financials": {}
+  }
+]
